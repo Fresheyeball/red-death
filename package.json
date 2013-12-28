@@ -1,0 +1,29 @@
+{
+  "name": "red-death",
+  "version": "0.0.0",
+  "description": "its a ghost blog theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fresheyeball/red-death.git"
+  },
+  "author": "Isaac Shapira <fresheyeball@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fresheyeball/red-death/issues"
+  },
+  "homepage": "https://github.com/Fresheyeball/red-death",
+  "devDependencies" : {
+    "grunt" : "*",
+    "grunt-contrib-watch" : "*",
+    "grunt-contrib-concat" : "*",
+    "grunt-contrib-stylus" : "*",
+    "grunt-contrib-concat" : "*",
+    "grunt-contrib-coffee" : "*",
+    "grunt-karma": "https://github.com/Dignifiedquire/grunt-karma/tarball/keepalive",
+    "karma":"*"
+  }
+}
