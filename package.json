@@ -21,9 +21,9 @@
     "grunt-contrib-watch" : "*",
     "grunt-contrib-concat" : "*",
     "grunt-contrib-stylus" : "*",
-    "grunt-contrib-concat" : "*",
     "grunt-contrib-coffee" : "*",
     "grunt-karma": "https://github.com/Dignifiedquire/grunt-karma/tarball/keepalive",
-    "karma":"*"
+    "karma":"*",
+    "nib":"*"
   }
 }
